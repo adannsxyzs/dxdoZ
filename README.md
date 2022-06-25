@@ -1,2 +1,6 @@
-# dxdoZ
-Attacking DdOsers
+Usage : Python son1x.py IP:PORT
+
+Simple DdOs Attacking Samp Web And Others
+
+- son1x#7744
+- EXECUTIVE x LEGENDSZ
