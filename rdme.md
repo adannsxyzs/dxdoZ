@@ -1,4 +1,4 @@
-Usage : Python son1x.py IP:PORT
+Usage : python son1x.py IP:PORT
 
 Simple DdOs Attacking Samp Web And Others
 
